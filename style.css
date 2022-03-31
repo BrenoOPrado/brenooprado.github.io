@@ -1,0 +1,29 @@
+body
+{
+    background-color: darkgray;
+    font-family: monospace, sans-serif;
+}
+
+h1
+{
+    color: darkred;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img
+{
+    border-radius: 50%;
+}
+
+#nome
+{
+    color: darkred;
+    font-family:fantasy;
+}
+
+.subtitulo
+{
+    color: darkred;
+    font-size: 18px;
+}
+
