@@ -27,3 +27,19 @@ img
     font-size: 18px;
 }
 
+.redes-sociais
+{
+    background-color: darkred;
+    color: darkgray;
+    padding: 15px, 30px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.redes-sociais:hover
+{
+    background-color: red;
+}
